@@ -8,7 +8,7 @@ Desenvolvedor com mais de 1 ano de experiência profissional (TrailDev) em back-
 ## Projetos
 - **Max Connect (Termomax)**: app em React Native, TypeScript e Tuya SDK, publicado na [App Store](https://apps.apple.com/br/app/max-connect/id6760918226) e no [Google Play](https://play.google.com/store/apps/details?id=br.com.termomax). Código privado (cliente).
 - **Trailbot**: plataforma de atendimento multicanal com bots, em Rails 8, Devise, Turbo e webhooks (WAHA API). Código privado (TrailDev).
-- **Kombino**: front-end em React Native (freelance); o app ainda não foi lançado.
+- **Kombino** ([kombino.app](https://kombino.app/)): front-end em React Native (freelance); o app ainda não foi lançado.
 
 ## Stack
 Ruby on Rails · React Native · TypeScript · JavaScript · PostgreSQL · Docker · Git · RSpec · Jest · Linux
